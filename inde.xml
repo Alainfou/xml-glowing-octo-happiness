@@ -14,7 +14,13 @@
       <link>http://www.securityfocus.com</link>
     </image>
     <item>
-lolilol
+      <title>Bugtraq: PDFMate PDF Converter Pro 1.7.5.0 - Buffer Overflow Vulnerability</title>
+      <link>http://www.securityfocus.com/archive/1/540147</link>
+      <description><![CDATA[
+      PDFMate PDF Converter Pro 1.7.5.0 - Buffer Overflow Vulnerability
+      ]]>
+      </description>
+      <pubDate/>      
     </item>
   </channel>
 </rss>
