@@ -1,26 +1,68 @@
 <rss version="2.0">
-  <channel>
-    <title>Sec</title>
-    <link>http://www.github.com</link>
-    <description>Sec XML tester</description>
-    <language>en-us</language>
-    <copyright>Copyright @ nope</copyright>
-    <pubDate/>
-    <lastBuildDate/>
-    <category>Sec</category>
-    <image>
-      <title>SecurityFocus</title>
-      <url>http://www.securityfocus.com/rss/SFLogo_v1.gif</url>
-      <link>http://www.securityfocus.com</link>
-    </image>
-    <item>
-      <title>Bugtraq: PDFMate PDF Converter Pro 1.7.5.0 - Buffer Overflow Vulnerability</title>
-      <link>http://www.securityfocus.com/archive/1/540147</link>
-      <description><![CDATA[
-      PDFMate PDF Converter Pro 1.7.5.0 - Buffer Overflow Vulnerability
-      ]]>
-      </description>
-      <pubDate/>      
-    </item>
-  </channel>
+<channel>
+<title>SecurityFocus Vulnerabilities</title>
+<link>http://www.securityfocus.com</link>
+<description>
+SecurityFocus is the most comprehensive and trusted source of security information on the Internet. We are a vendor-neutral site that provides objective, timely and comprehensive security information to all members of the security community, from end users, security hobbyists and network administrators to security consultants, IT Managers, CIOs and CSOs.
+</description>
+<language>en-us</language>
+<copyright>Copyright @ 1999-2006 SecurityFocus</copyright>
+<pubDate/>
+<lastBuildDate/>
+<category>SecurityFocus</category>
+<image>
+<title>SecurityFocus</title>
+<url>http://www.securityfocus.com/rss/SFLogo_v1.gif</url>
+<link>http://www.securityfocus.com</link>
+</image>
+<item>
+<title>
+Bugtraq: [SECURITY] [DSA 3788-2] tomcat8 regression update
+</title>
+<link>http://www.securityfocus.com/archive/1/540163</link>
+<description>
+<![CDATA[ [SECURITY] [DSA 3788-2] tomcat8 regression update ]]>
+</description>
+<pubDate/>
+</item>
+<item>
+<title>
+Bugtraq: [security bulletin] HPESBHF03709 rev.1 - HPE Network products including Comware, IMC, and VCX running OpenSSL, Remote Denial of Service (DoS), Disclosure of Sensitive Information
+</title>
+<link>http://www.securityfocus.com/archive/1/540158</link>
+<description>
+<![CDATA[
+[security bulletin] HPESBHF03709 rev.1 - HPE Network products including Comware, IMC, and VCX running OpenSSL, Remote Denial of Service (DoS), Disclosure of Sensitive Information
+]]>
+</description>
+<pubDate/>
+</item>
+<item>
+<title>Bugtraq: APPLE-SA-2017-02-21-2 Logic Pro X 10.3.1</title>
+<link>http://www.securityfocus.com/archive/1/540155</link>
+<description>
+<![CDATA[ APPLE-SA-2017-02-21-2 Logic Pro X 10.3.1 ]]>
+</description>
+<pubDate/>
+</item>
+<item>
+<title>
+Bugtraq: PDFMate PDF Converter Pro 1.7.5.0 - Buffer Overflow Vulnerability
+</title>
+<link>http://www.securityfocus.com/archive/1/540147</link>
+<description>
+<![CDATA[
+PDFMate PDF Converter Pro 1.7.5.0 - Buffer Overflow Vulnerability
+]]>
+</description>
+<pubDate/>
+</item>
+<item>
+<title>More rss feeds from SecurityFocus</title>
+<link>http://www.securityfocus.com/rss/index.shtml</link>
+<description>
+News, Infocus, Columns, Vulnerabilities, Bugtraq ...
+</description>
+</item>
+</channel>
 </rss>
