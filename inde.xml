@@ -1,39 +1,25 @@
 <rss version="2.0">
 <channel>
-<title>SecurityFocus Vulnerabilities</title>
-<link>http://www.securityfocus.com</link>
-<description>
-SecurityFocus is the most comprehensive and trusted source of security information on the Internet. We are a vendor-neutral site that provides objective, timely and comprehensive security information to all members of the security community, from end users, security hobbyists and network administrators to security consultants, IT Managers, CIOs and CSOs.
-</description>
+<title>Sec</title>
+<link>https://github.com</link>
+<description>SECtest</description>
 <language>en-us</language>
-<copyright>Copyright @ 1999-2006 SecurityFocus</copyright>
+<copyright>Copyright @ 1970-2017 NOPE</copyright>
 <pubDate/>
 <lastBuildDate/>
-<category>SecurityFocus</category>
+<category>Secu</category>
 <image>
-<title>SecurityFocus</title>
-<url>http://www.securityfocus.com/rss/SFLogo_v1.gif</url>
-<link>http://www.securityfocus.com</link>
+<title>Sec</title>
+<url>https://developer.android.com/static/images/android_logo.png</url>
+<link>https://www.owasp.org/index.php/Main_Page</link>
 </image>
 <item>
 <title>
-Bugtraq: [SECURITY] [DSA 3788-2] tomcat8 regression update
-</title>
-<link>http://www.securityfocus.com/archive/1/540163</link>
-<description>
-<![CDATA[ [SECURITY] [DSA 3788-2] tomcat8 regression update ]]>
-</description>
-<pubDate/>
-</item>
-<item>
-<title>
-Bugtraq: [security bulletin] HPESBHF03709 rev.1 - HPE Network products including Comware, IMC, and VCX running OpenSSL, Remote Denial of Service (DoS), Disclosure of Sensitive Information
+blob
 </title>
 <link>http://www.securityfocus.com/archive/1/540158</link>
 <description>
-<![CDATA[
-[security bulletin] HPESBHF03709 rev.1 - HPE Network products including Comware, IMC, and VCX running OpenSSL, Remote Denial of Service (DoS), Disclosure of Sensitive Information
-]]>
+<![CDATA[ [security bulletin] HPESBHF03709 rev.1 ]]>
 </description>
 <pubDate/>
 </item>
